@@ -1,0 +1,10 @@
+{
+  "prefix": "#",
+  "redirectUri": "http://78.154.103.23:13900/backend/user/callback",
+  "clientId": "1531808968274481213",
+  "db": "json",
+  "port": 13900,
+  "CORS": true,
+  "logTraffic": true,
+  "rateLimiter": true
+}
